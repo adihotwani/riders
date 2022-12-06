@@ -1,0 +1,122 @@
+[
+    {
+        "title":"Ride Completed",
+        "Time":"19:40 Wed, 11 Jul",
+        "image":"completed",
+        "id":1
+    },
+    {
+        "title":"Ride Started",
+        "Time":"01:07 Wed, 11 Jul",
+        "image":"started",
+        "id":2
+    },
+    {
+        "title":"Ride Scheduled",
+        "Time":"12:09 Mon, 9 Jul",
+        "image":"scheduled",
+        "id":3
+    },
+    {
+        "title":"Ride to your doctor before doctor rides to you!",
+        "Time":"11:55 Mon, 9 July",
+        "image":"alert",
+        "id":4
+    },
+    {
+        "title":"Ride Completed",
+        "Time":"20:45 Thu, 15 Jun",
+        "image":"completed",
+        "id":5
+    },
+    {
+        "title":"Ride Started",
+        "Time":"16:13 Thu, 15 Jun",
+        "image":"started",
+        "id":6
+    },
+    {
+        "title":"Ride Scheduled",
+        "Time":"11:21 Tue, 13 Jun",
+        "image":"scheduled",
+        "id":7
+    },
+    {
+        "title":"Please book your trip for doctor's appointment",
+        "Time":"10:00 Tue, 13 Jun",
+        "image":"alert",
+        "id":8
+    },
+    {
+        "title":"Ride Completed",
+        "Time":"17:23 Mon, 14 May",
+        "image":"completed",
+        "id":9
+    },
+    {
+        "title":"Ride Started",
+        "Time":"13:00 Mon, 14 May",
+        "image":"started",
+        "id":10
+    },
+    {
+        "title":"Ride Scheduled",
+        "Time":"13:00 Fri, 11 May",
+        "image":"scheduled",
+        "id":11
+    },
+    {
+        "title":"Book a ride for your doctor's visit",
+        "Time":"09:00 Fri, 11 May",
+        "image":"alert",
+        "id":12
+    },
+    {
+        "title":"Ride Completed",
+        "Time":"16:00 Fri, 18 Apr",
+        "image":"completed",
+        "id":13
+    },
+    {
+        "title":"Ride Started",
+        "Time":"14:22 Fri, 18 Apr",
+        "image":"started",
+        "id":14
+    },
+    {
+        "title":"Ride Scheduled",
+        "Time":"16:27 Wed, 16 Apr",
+        "image":"scheduled",
+        "id":15
+    },
+    {
+        "title":"Book a ride for your doctor's visit",
+        "Time":"07:00 Wed, 16 Apr",
+        "image":"alert",
+        "id":16
+    },
+    {
+        "title":"Ride Completed",
+        "Time":"20:00 Tue, 19 Mar",
+        "image":"completed",
+        "id":17
+    },
+    {
+        "title":"Ride Started",
+        "Time":"17:43 Tue, 19 Mar",
+        "image":"started",
+        "id":18
+    },
+    {
+        "title":"Ride Scheduled",
+        "Time":"13:41 Sun, 17 Mar",
+        "image":"scheduled",
+        "id":19
+    },
+    {
+        "title":"Book a ride for your doctor's visit",
+        "Time":"10:00 Sun, 17 Mar",
+        "image":"alert",
+        "id":20
+    }
+    ]

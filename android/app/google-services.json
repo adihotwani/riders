@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "382864577475",
+    "project_id": "taximaps-ed3bc",
+    "storage_bucket": "taximaps-ed3bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382864577475:android:c5b596b224b9ae900ce376",
+        "android_client_info": {
+          "package_name": "com.ridermap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382864577475-2426cllp1d4cv6mcc0kcmc9plio5the8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ridermap",
+            "certificate_hash": "95993b0153f1800386d152ecad811a4c5f04267b"
+          }
+        },
+        {
+          "client_id": "382864577475-7vproka8o3k0rvdqt91cgekvicdajd7g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ridermap",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "382864577475-0m76vqeses00md5i2hn2tm6apccuqv31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAagIxp2sXEDxRbjpC58xOHpL8L6YITThk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382864577475-0m76vqeses00md5i2hn2tm6apccuqv31.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "382864577475-hhnr8q8m0s531cpp6oi1sse9evrqqd34.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.riders"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382864577475:android:b40ae83b16c369ac0ce376",
+        "android_client_info": {
+          "package_name": "com.riders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382864577475-0l54vkepat3jlha90a7ss8nhi4n5crro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.riders",
+            "certificate_hash": "95993b0153f1800386d152ecad811a4c5f04267b"
+          }
+        },
+        {
+          "client_id": "382864577475-0m76vqeses00md5i2hn2tm6apccuqv31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAagIxp2sXEDxRbjpC58xOHpL8L6YITThk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382864577475-0m76vqeses00md5i2hn2tm6apccuqv31.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "382864577475-hhnr8q8m0s531cpp6oi1sse9evrqqd34.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.riders"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
